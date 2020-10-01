@@ -1,5 +1,5 @@
 
-## BugBug Bounty Roadmaps
+## Bug Bounty Roadmap
 
 ## 1) 
 [![Twitter](https://img.shields.io/badge/twitter-@jhaddix-blue.svg)](https://twitter.com/jhaddix)
